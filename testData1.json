@@ -1,0 +1,12 @@
+{
+    "user": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "checkout": {
+      "firstName": "Ankita",
+      "lastName": "Bundiwale",
+      "zip": "12345"
+    }
+  }
+  

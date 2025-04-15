@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="20.562381000000002">
+<testsuite name="fullFlow.spec.js" timestamp="2025-04-15T10:14:07.453Z" hostname="chromium" tests="1" failures="0" skipped="0" time="18.166" errors="0">
+<testcase name="test" classname="fullFlow.spec.js" time="18.166">
+<system-out>
+<![CDATA[Nexus 6
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
